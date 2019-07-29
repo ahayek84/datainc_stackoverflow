@@ -1,3 +1,6 @@
+Original link : https://www.kaggle.com/stackoverflow/pythonquestions
+
+
 Context
 Full text of all questions and answers from Stack Overflow that are tagged with the python tag. Useful for natural language processing and community analysis. See also the dataset of R questions.
 
